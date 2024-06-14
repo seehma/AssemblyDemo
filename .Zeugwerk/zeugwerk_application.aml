@@ -1,7 +1,7 @@
 ﻿<CAEXFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.dke.de/CAEX" SchemaVersion="3.0" FileName="zeugwerk_application.aml" xsi:schemaLocation="http://www.dke.de/CAEX CAEX_ClassModel_V.3.0.xsd">
   <AdditionalInformation AutomationMLVersion="2.0" />
   <AdditionalInformation DocumentVersions="Recommendations">
-    <Document DocumentIdentifier="Z.AmlLibs" Version="1.5.0" />
+    <Document DocumentIdentifier="Z.AmlLibs" Version="1.6.1" />
   </AdditionalInformation>
   <SuperiorStandardVersion>AutomationML 2.10</SuperiorStandardVersion>
   <SourceDocumentInformation OriginName="AutomationML Editor" OriginID="916578CA-FE0D-474E-A4FC-9E1719892369" OriginVersion="5.6.2.0" LastWritingDateTime="2021-11-22T17:41:57.1464048+01:00" OriginVendor="Zeugwerk" OriginVendorURL="https://zeugwerk.at/" OriginRelease="5.6.2.0" OriginProjectTitle="Zeugwerk Framework Aml-Template" OriginProjectID="Z.AmlLibs" />
@@ -1512,6 +1512,7 @@
     <Version>1.0.0</Version>
     <RoleClass Name="ZObject" RefBaseClassPath="AutomationMLBaseRoleClassLib/AutomationMLBaseRole" />
     <RoleClass Name="ZEquipment" RefBaseClassPath="AutomationMLCSRoleClassLib/ControlEquipment" />
+    <RoleClass Name="ZLogic" RefBaseClassPath="AutomationMLLogicRoleClassLib/LogicModelObject" />
   </RoleClassLib>
   <RoleClassLib Name="AutomationMLExtendedRoleClassLib">
     <Version>2.7.0</Version>

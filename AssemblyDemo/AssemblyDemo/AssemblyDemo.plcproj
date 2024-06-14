@@ -492,6 +492,7 @@
     </PlaceholderReference>
     <PlaceholderReference Include="ZCore">
       <DefaultResolution>ZCore, 1.5.8.2 (Zeugwerk GmbH)</DefaultResolution>
+      <Namespace>ZCore</Namespace>
     </PlaceholderReference>
     <PlaceholderReference Include="ZEquipment">
       <DefaultResolution>ZEquipment, 1.5.8.2 (Zeugwerk GmbH)</DefaultResolution>
@@ -504,19 +505,19 @@
   </ItemGroup>
   <ItemGroup>
     <PlaceholderResolution Include="ZApplication">
-      <Resolution>ZApplication, 1.5.8.2 (Zeugwerk GmbH)</Resolution>
+      <Resolution>ZApplication, 1.5.24.0 (Zeugwerk GmbH)</Resolution>
     </PlaceholderResolution>
     <PlaceholderResolution Include="ZAux">
-      <Resolution>ZAux, 1.5.8.2 (Zeugwerk GmbH)</Resolution>
+      <Resolution>ZAux, 1.5.24.0 (Zeugwerk GmbH)</Resolution>
     </PlaceholderResolution>
     <PlaceholderResolution Include="ZCore">
-      <Resolution>ZCore, 1.5.8.2 (Zeugwerk GmbH)</Resolution>
+      <Resolution>ZCore, 1.5.24.0 (Zeugwerk GmbH)</Resolution>
     </PlaceholderResolution>
     <PlaceholderResolution Include="ZEquipment">
-      <Resolution>ZEquipment, 1.5.8.2 (Zeugwerk GmbH)</Resolution>
+      <Resolution>ZEquipment, 1.5.24.0 (Zeugwerk GmbH)</Resolution>
     </PlaceholderResolution>
     <PlaceholderResolution Include="ZPlatform">
-      <Resolution>ZPlatform, 1.5.8.2 (Zeugwerk GmbH)</Resolution>
+      <Resolution>ZPlatform, 1.5.24.0 (Zeugwerk GmbH)</Resolution>
     </PlaceholderResolution>
   </ItemGroup>
   <ItemGroup>
